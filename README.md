@@ -7,9 +7,11 @@ Aplikasi mobile untuk mengelola dan membeli film, dibuat dengan **Flutter**. Apl
 | Login | Daftar film |
 | --- | --- |
 | ![Halaman login](login.png) | ![Daftar film user](dashboard_user.png) |
+
 | Transaksi Admin | Transaksi User |
 | --- | --- |
 | ![Transaksi Admin](transaksi_admin.png) | ![Transaksi User](transaksi_user.png) |
+
 | Genre Admin | Movie Admin |
 | --- | --- |
 | ![Genre Admin](genre_admin.png) | ![Movie Admin](movie_admin.png) |
