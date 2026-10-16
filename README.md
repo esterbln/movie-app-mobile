@@ -2,6 +2,18 @@
 
 Aplikasi mobile untuk mengelola dan membeli film, dibuat dengan **Flutter**. Aplikasi ini adalah klien mobile dari backend [`movie-rest-api`](https://github.com/esterbln/movie-rest-api): semua data (pengguna, genre, film, transaksi) diambil dan disimpan lewat API tersebut. Versi web dengan fungsi yang sama ada di [`movie-app-frontend`](https://github.com/esterbln/movie-app-frontend).
 
+## Tampilan
+
+| Login | Daftar film |
+| --- | --- |
+| ![Halaman login](login.png) | ![Daftar film (user)](dashboard user.png) |
+| Transaksi Admin | Transaksi User |
+| --- | --- |
+| ![Transaksi Admin](transaksi admin.png) | ![Transaksi User](transaksi user.png) |
+| Genre Admin | Movie Admin |
+| --- | --- |
+| ![Genre Admin](genre admin.png) | ![Movie Admin](movie admin.png) |
+
 ## Fitur
 
 **Umum**
