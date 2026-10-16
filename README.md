@@ -2,8 +2,6 @@
 
 Aplikasi mobile untuk mengelola dan membeli film, dibuat dengan **Flutter**. Aplikasi ini adalah klien mobile dari backend [`movie-rest-api`](https://github.com/esterbln/movie-rest-api): semua data (pengguna, genre, film, transaksi) diambil dan disimpan lewat API tersebut. Versi web dengan fungsi yang sama ada di [`movie-app-frontend`](https://github.com/esterbln/movie-app-frontend).
 
-Proyek ini berawal dari tugas kuliah Pemrograman IV, lalu saya rapikan agar bisa dijalankan ulang oleh siapa pun.
-
 ## Fitur
 
 **Umum**
